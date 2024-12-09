@@ -3,7 +3,7 @@ spring:
     default: local
 
   datasource:
-    url: jdbc:mysql://localhost:3306/jwt
+    url: jdbc:mysql://localhost:3306/
     username: myh7754
     password: DKSSUD12!
     driver-class-name: com.mysql.cj.jdbc.Driver
